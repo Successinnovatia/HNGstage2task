@@ -1,0 +1,14 @@
+*{
+    background-color:"#D5D8D6";
+}
+.table{
+    width: 700px; 
+    height: 800px;
+    align: center;
+
+}
+@media screen and (max-width: 768px){
+    .table{
+        width: 200px;
+        height: 300px;
+    }
